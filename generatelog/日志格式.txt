@@ -1,0 +1,15 @@
+[来源IP]
+[节点IP]
+[请求结束时间（19/Feb/2014:16:59:55 +0800—北京时间）]
+[请求方式]
+[URL(包含?后面参数)]
+[协议]
+[状态码]
+[流量大小（B）]
+[来源（referer）]
+[响应时间（ms）]
+[码率（视频实际码率KB/s）]—从请求URL中qualityCode参数获取，如参数值为空，码率默认为“—”
+[客户端（UA）]
+
+样例：
+[106.9.122.174][222.222.207.148][28/Dec/2016:00:05:01 +0800][GET][http://ltetp3.tv189.com/tm-cctv7-512k.m3u8?playseek=20161227214700-20161227220700&sign=01d9311fa5080350a92d2483c94a1533&t=5862ad4d&qualityCode=&version=1&guid=9b226208-eab5-5cb6-19e6-bca86e8212a0&app=115020310073&cookie=4a8f04a5866b9d2eef4bcb192d9ad591&session=4a8f04a5866b9d2eef4bcb192d9ad591&uid=104410033435572161227&uname=10019443%40weixin&time=20161228000501&videotype=3&cid=C8000000000000000001429142607673&cname=&cateid=&dev=000001&ep=1&isp=&etv=&os=30&ps=0099&clienttype=OPPO+R9tm&deviceid=460020633702190&appver=5.3.6.3ctch1&res=1080%2A1920&channelid=01831920&pid=1000000432&orderid=1100568027731&nid=&netype=14&cp=00000014&sp=00000014&ip=106.9.122.174&ipSign=6439cbe49352bf5ac053c3cfa3dacbc0&cdntoken=api_5862912da6ff4&pvv=1.0.10][HTTP/1.1][200][89556][-][504][-][TYSX-PLAYER-1.0.10]
